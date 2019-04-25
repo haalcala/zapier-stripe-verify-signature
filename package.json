@@ -1,9 +1,9 @@
 {
-  "name": "github-example-app",
+  "name": "zapier-stripe-verify-signature",
   "version": "1.0.1",
   "description": "Verify Stripe Webhook",
-  "_repository": "zapier/zapier-platform-app-github-example",
-  "_homepage": "https://zapier.com/developer",
+  "repository": "git@github.com:haalcala/zapier-stripe-verify-signature.git",
+  "homepage": "https://zapier.com/developer",
   "author": "Harold Alcala <harold.dev@gmail.com>",
   "license": "BSD-3-Clause",
   "main": "index.js",
